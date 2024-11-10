@@ -1,4 +1,9 @@
 # IntelliFoods Backend
+
+## Backend Architecture
+
+![backend architecture diagram](backend_architecture.png)
+
 ## How to setup the python env
 
 ```bash
