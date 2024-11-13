@@ -14,6 +14,10 @@
 - Docker: Containerization
 - AWS CDK: Infrastructure
 
+## Data Source Used
+
+[TheMealDB](https://www.themealdb.com/api.php)
+
 ## Getting Started
 
 ### Setup the Python Environment for Local Development
